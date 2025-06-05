@@ -1,0 +1,15 @@
+C:\Users\Elizabeth\OneDrive\Documents\school\SchoolYear2\DesignPatterns-HW\Design-Patterns-Week-4\StatePattern\bin\Debug\net8.0\StatePatternAssignment.exe
+C:\Users\Elizabeth\OneDrive\Documents\school\SchoolYear2\DesignPatterns-HW\Design-Patterns-Week-4\StatePattern\bin\Debug\net8.0\StatePatternAssignment.deps.json
+C:\Users\Elizabeth\OneDrive\Documents\school\SchoolYear2\DesignPatterns-HW\Design-Patterns-Week-4\StatePattern\bin\Debug\net8.0\StatePatternAssignment.runtimeconfig.json
+C:\Users\Elizabeth\OneDrive\Documents\school\SchoolYear2\DesignPatterns-HW\Design-Patterns-Week-4\StatePattern\bin\Debug\net8.0\StatePatternAssignment.dll
+C:\Users\Elizabeth\OneDrive\Documents\school\SchoolYear2\DesignPatterns-HW\Design-Patterns-Week-4\StatePattern\bin\Debug\net8.0\StatePatternAssignment.pdb
+C:\Users\Elizabeth\OneDrive\Documents\school\SchoolYear2\DesignPatterns-HW\Design-Patterns-Week-4\StatePattern\obj\Debug\net8.0\StatePatternAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elizabeth\OneDrive\Documents\school\SchoolYear2\DesignPatterns-HW\Design-Patterns-Week-4\StatePattern\obj\Debug\net8.0\StatePatternAssignment.AssemblyInfoInputs.cache
+C:\Users\Elizabeth\OneDrive\Documents\school\SchoolYear2\DesignPatterns-HW\Design-Patterns-Week-4\StatePattern\obj\Debug\net8.0\StatePatternAssignment.AssemblyInfo.cs
+C:\Users\Elizabeth\OneDrive\Documents\school\SchoolYear2\DesignPatterns-HW\Design-Patterns-Week-4\StatePattern\obj\Debug\net8.0\StatePatternAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Elizabeth\OneDrive\Documents\school\SchoolYear2\DesignPatterns-HW\Design-Patterns-Week-4\StatePattern\obj\Debug\net8.0\StatePatternAssignment.sourcelink.json
+C:\Users\Elizabeth\OneDrive\Documents\school\SchoolYear2\DesignPatterns-HW\Design-Patterns-Week-4\StatePattern\obj\Debug\net8.0\StatePatternAssignment.dll
+C:\Users\Elizabeth\OneDrive\Documents\school\SchoolYear2\DesignPatterns-HW\Design-Patterns-Week-4\StatePattern\obj\Debug\net8.0\refint\StatePatternAssignment.dll
+C:\Users\Elizabeth\OneDrive\Documents\school\SchoolYear2\DesignPatterns-HW\Design-Patterns-Week-4\StatePattern\obj\Debug\net8.0\StatePatternAssignment.pdb
+C:\Users\Elizabeth\OneDrive\Documents\school\SchoolYear2\DesignPatterns-HW\Design-Patterns-Week-4\StatePattern\obj\Debug\net8.0\StatePatternAssignment.genruntimeconfig.cache
+C:\Users\Elizabeth\OneDrive\Documents\school\SchoolYear2\DesignPatterns-HW\Design-Patterns-Week-4\StatePattern\obj\Debug\net8.0\ref\StatePatternAssignment.dll

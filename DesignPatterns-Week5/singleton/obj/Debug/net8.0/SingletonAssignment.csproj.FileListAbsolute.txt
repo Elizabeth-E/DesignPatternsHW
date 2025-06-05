@@ -1,0 +1,15 @@
+C:\Users\Elizabeth\OneDrive\Documents\school\SchoolYear2\DesignPatterns-HW\Design-Patterns-Week-4\singleton\bin\Debug\net8.0\SingletonAssignment.exe
+C:\Users\Elizabeth\OneDrive\Documents\school\SchoolYear2\DesignPatterns-HW\Design-Patterns-Week-4\singleton\bin\Debug\net8.0\SingletonAssignment.deps.json
+C:\Users\Elizabeth\OneDrive\Documents\school\SchoolYear2\DesignPatterns-HW\Design-Patterns-Week-4\singleton\bin\Debug\net8.0\SingletonAssignment.runtimeconfig.json
+C:\Users\Elizabeth\OneDrive\Documents\school\SchoolYear2\DesignPatterns-HW\Design-Patterns-Week-4\singleton\bin\Debug\net8.0\SingletonAssignment.dll
+C:\Users\Elizabeth\OneDrive\Documents\school\SchoolYear2\DesignPatterns-HW\Design-Patterns-Week-4\singleton\bin\Debug\net8.0\SingletonAssignment.pdb
+C:\Users\Elizabeth\OneDrive\Documents\school\SchoolYear2\DesignPatterns-HW\Design-Patterns-Week-4\singleton\obj\Debug\net8.0\SingletonAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elizabeth\OneDrive\Documents\school\SchoolYear2\DesignPatterns-HW\Design-Patterns-Week-4\singleton\obj\Debug\net8.0\SingletonAssignment.AssemblyInfoInputs.cache
+C:\Users\Elizabeth\OneDrive\Documents\school\SchoolYear2\DesignPatterns-HW\Design-Patterns-Week-4\singleton\obj\Debug\net8.0\SingletonAssignment.AssemblyInfo.cs
+C:\Users\Elizabeth\OneDrive\Documents\school\SchoolYear2\DesignPatterns-HW\Design-Patterns-Week-4\singleton\obj\Debug\net8.0\SingletonAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Elizabeth\OneDrive\Documents\school\SchoolYear2\DesignPatterns-HW\Design-Patterns-Week-4\singleton\obj\Debug\net8.0\SingletonAssignment.sourcelink.json
+C:\Users\Elizabeth\OneDrive\Documents\school\SchoolYear2\DesignPatterns-HW\Design-Patterns-Week-4\singleton\obj\Debug\net8.0\SingletonAssignment.dll
+C:\Users\Elizabeth\OneDrive\Documents\school\SchoolYear2\DesignPatterns-HW\Design-Patterns-Week-4\singleton\obj\Debug\net8.0\refint\SingletonAssignment.dll
+C:\Users\Elizabeth\OneDrive\Documents\school\SchoolYear2\DesignPatterns-HW\Design-Patterns-Week-4\singleton\obj\Debug\net8.0\SingletonAssignment.pdb
+C:\Users\Elizabeth\OneDrive\Documents\school\SchoolYear2\DesignPatterns-HW\Design-Patterns-Week-4\singleton\obj\Debug\net8.0\SingletonAssignment.genruntimeconfig.cache
+C:\Users\Elizabeth\OneDrive\Documents\school\SchoolYear2\DesignPatterns-HW\Design-Patterns-Week-4\singleton\obj\Debug\net8.0\ref\SingletonAssignment.dll

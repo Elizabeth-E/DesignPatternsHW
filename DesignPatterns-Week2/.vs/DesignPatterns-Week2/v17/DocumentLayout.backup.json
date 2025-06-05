@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Elizabeth\\IdeaProjects\\DesignPatternsHW\\DesignPatterns-Week2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7FDE4B-20D9-4276-9CF0-B1538755AE6B}|assignment3\\assignment3.csproj|c:\\users\\elizabeth\\ideaprojects\\designpatternshw\\designpatterns-week2\\assignment3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7FDE4B-20D9-4276-9CF0-B1538755AE6B}|assignment3\\assignment3.csproj|solutionrelative:assignment3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7FDE4B-20D9-4276-9CF0-B1538755AE6B}|assignment3\\assignment3.csproj|c:\\users\\elizabeth\\ideaprojects\\designpatternshw\\designpatterns-week2\\assignment3\\mp3player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7FDE4B-20D9-4276-9CF0-B1538755AE6B}|assignment3\\assignment3.csproj|solutionrelative:assignment3\\mp3player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7FDE4B-20D9-4276-9CF0-B1538755AE6B}|assignment3\\assignment3.csproj|c:\\users\\elizabeth\\ideaprojects\\designpatternshw\\designpatterns-week2\\assignment3\\fancymp3display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7FDE4B-20D9-4276-9CF0-B1538755AE6B}|assignment3\\assignment3.csproj|solutionrelative:assignment3\\fancymp3display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7FDE4B-20D9-4276-9CF0-B1538755AE6B}|assignment3\\assignment3.csproj|c:\\users\\elizabeth\\ideaprojects\\designpatternshw\\designpatterns-week2\\assignment3\\simplemp3display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7FDE4B-20D9-4276-9CF0-B1538755AE6B}|assignment3\\assignment3.csproj|solutionrelative:assignment3\\simplemp3display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7FDE4B-20D9-4276-9CF0-B1538755AE6B}|assignment3\\assignment3.csproj|c:\\users\\elizabeth\\ideaprojects\\designpatternshw\\designpatterns-week2\\assignment3\\iobservable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7FDE4B-20D9-4276-9CF0-B1538755AE6B}|assignment3\\assignment3.csproj|solutionrelative:assignment3\\iobservable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7FDE4B-20D9-4276-9CF0-B1538755AE6B}|assignment3\\assignment3.csproj|c:\\users\\elizabeth\\ideaprojects\\designpatternshw\\designpatterns-week2\\assignment3\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7FDE4B-20D9-4276-9CF0-B1538755AE6B}|assignment3\\assignment3.csproj|solutionrelative:assignment3\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7FDE4B-20D9-4276-9CF0-B1538755AE6B}|assignment3\\assignment3.csproj|c:\\users\\elizabeth\\ideaprojects\\designpatternshw\\designpatterns-week2\\assignment3\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7FDE4B-20D9-4276-9CF0-B1538755AE6B}|assignment3\\assignment3.csproj|solutionrelative:assignment3\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Elizabeth\\IdeaProjects\\DesignPatternsHW\\DesignPatterns-Week2\\assignment3\\Program.cs",
+              "RelativeDocumentMoniker": "assignment3\\Program.cs",
+              "ToolTip": "C:\\Users\\Elizabeth\\IdeaProjects\\DesignPatternsHW\\DesignPatterns-Week2\\assignment3\\Program.cs",
+              "RelativeToolTip": "assignment3\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T12:55:39.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FancyMP3Display.cs",
+              "DocumentMoniker": "C:\\Users\\Elizabeth\\IdeaProjects\\DesignPatternsHW\\DesignPatterns-Week2\\assignment3\\FancyMP3Display.cs",
+              "RelativeDocumentMoniker": "assignment3\\FancyMP3Display.cs",
+              "ToolTip": "C:\\Users\\Elizabeth\\IdeaProjects\\DesignPatternsHW\\DesignPatterns-Week2\\assignment3\\FancyMP3Display.cs",
+              "RelativeToolTip": "assignment3\\FancyMP3Display.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T12:58:35.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SimpleMP3Display.cs",
+              "DocumentMoniker": "C:\\Users\\Elizabeth\\IdeaProjects\\DesignPatternsHW\\DesignPatterns-Week2\\assignment3\\SimpleMP3Display.cs",
+              "RelativeDocumentMoniker": "assignment3\\SimpleMP3Display.cs",
+              "ToolTip": "C:\\Users\\Elizabeth\\IdeaProjects\\DesignPatternsHW\\DesignPatterns-Week2\\assignment3\\SimpleMP3Display.cs",
+              "RelativeToolTip": "assignment3\\SimpleMP3Display.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAWwAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T12:58:12.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MP3Player.cs",
+              "DocumentMoniker": "C:\\Users\\Elizabeth\\IdeaProjects\\DesignPatternsHW\\DesignPatterns-Week2\\assignment3\\MP3Player.cs",
+              "RelativeDocumentMoniker": "assignment3\\MP3Player.cs",
+              "ToolTip": "C:\\Users\\Elizabeth\\IdeaProjects\\DesignPatternsHW\\DesignPatterns-Week2\\assignment3\\MP3Player.cs",
+              "RelativeToolTip": "assignment3\\MP3Player.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T12:57:52.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Song.cs",
+              "DocumentMoniker": "C:\\Users\\Elizabeth\\IdeaProjects\\DesignPatternsHW\\DesignPatterns-Week2\\assignment3\\Song.cs",
+              "RelativeDocumentMoniker": "assignment3\\Song.cs",
+              "ToolTip": "C:\\Users\\Elizabeth\\IdeaProjects\\DesignPatternsHW\\DesignPatterns-Week2\\assignment3\\Song.cs",
+              "RelativeToolTip": "assignment3\\Song.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T13:01:37.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IObserver.cs",
+              "DocumentMoniker": "C:\\Users\\Elizabeth\\IdeaProjects\\DesignPatternsHW\\DesignPatterns-Week2\\assignment3\\IObserver.cs",
+              "RelativeDocumentMoniker": "assignment3\\IObserver.cs",
+              "ToolTip": "C:\\Users\\Elizabeth\\IdeaProjects\\DesignPatternsHW\\DesignPatterns-Week2\\assignment3\\IObserver.cs",
+              "RelativeToolTip": "assignment3\\IObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T12:57:30.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IObservable.cs",
+              "DocumentMoniker": "C:\\Users\\Elizabeth\\IdeaProjects\\DesignPatternsHW\\DesignPatterns-Week2\\assignment3\\IObservable.cs",
+              "RelativeDocumentMoniker": "assignment3\\IObservable.cs",
+              "ToolTip": "C:\\Users\\Elizabeth\\IdeaProjects\\DesignPatternsHW\\DesignPatterns-Week2\\assignment3\\IObservable.cs",
+              "RelativeToolTip": "assignment3\\IObservable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T12:57:07.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

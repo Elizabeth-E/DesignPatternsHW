@@ -1,0 +1,13 @@
+C:\Users\Elizabeth\Documents\SchoolYear2\DesignPatterns-HW\Design-Patterns-Week-4\StatePattern\bin\Debug\netcoreapp3.1\StatePatternAssignment.exe
+C:\Users\Elizabeth\Documents\SchoolYear2\DesignPatterns-HW\Design-Patterns-Week-4\StatePattern\bin\Debug\netcoreapp3.1\StatePatternAssignment.deps.json
+C:\Users\Elizabeth\Documents\SchoolYear2\DesignPatterns-HW\Design-Patterns-Week-4\StatePattern\bin\Debug\netcoreapp3.1\StatePatternAssignment.runtimeconfig.json
+C:\Users\Elizabeth\Documents\SchoolYear2\DesignPatterns-HW\Design-Patterns-Week-4\StatePattern\bin\Debug\netcoreapp3.1\StatePatternAssignment.runtimeconfig.dev.json
+C:\Users\Elizabeth\Documents\SchoolYear2\DesignPatterns-HW\Design-Patterns-Week-4\StatePattern\bin\Debug\netcoreapp3.1\StatePatternAssignment.dll
+C:\Users\Elizabeth\Documents\SchoolYear2\DesignPatterns-HW\Design-Patterns-Week-4\StatePattern\bin\Debug\netcoreapp3.1\StatePatternAssignment.pdb
+C:\Users\Elizabeth\Documents\SchoolYear2\DesignPatterns-HW\Design-Patterns-Week-4\StatePattern\obj\Debug\netcoreapp3.1\StatePatternAssignment.csprojAssemblyReference.cache
+C:\Users\Elizabeth\Documents\SchoolYear2\DesignPatterns-HW\Design-Patterns-Week-4\StatePattern\obj\Debug\netcoreapp3.1\StatePatternAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Elizabeth\Documents\SchoolYear2\DesignPatterns-HW\Design-Patterns-Week-4\StatePattern\obj\Debug\netcoreapp3.1\StatePatternAssignment.AssemblyInfoInputs.cache
+C:\Users\Elizabeth\Documents\SchoolYear2\DesignPatterns-HW\Design-Patterns-Week-4\StatePattern\obj\Debug\netcoreapp3.1\StatePatternAssignment.AssemblyInfo.cs
+C:\Users\Elizabeth\Documents\SchoolYear2\DesignPatterns-HW\Design-Patterns-Week-4\StatePattern\obj\Debug\netcoreapp3.1\StatePatternAssignment.dll
+C:\Users\Elizabeth\Documents\SchoolYear2\DesignPatterns-HW\Design-Patterns-Week-4\StatePattern\obj\Debug\netcoreapp3.1\StatePatternAssignment.pdb
+C:\Users\Elizabeth\Documents\SchoolYear2\DesignPatterns-HW\Design-Patterns-Week-4\StatePattern\obj\Debug\netcoreapp3.1\StatePatternAssignment.genruntimeconfig.cache

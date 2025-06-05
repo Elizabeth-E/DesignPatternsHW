@@ -1,0 +1,12 @@
+C:\Users\Elizabeth\Documents\SchoolYear2\DesignPatterns-HW\Design-Patterns-Week-4\singleton\bin\Release\netcoreapp3.1\SingletonAssignment.exe
+C:\Users\Elizabeth\Documents\SchoolYear2\DesignPatterns-HW\Design-Patterns-Week-4\singleton\bin\Release\netcoreapp3.1\SingletonAssignment.deps.json
+C:\Users\Elizabeth\Documents\SchoolYear2\DesignPatterns-HW\Design-Patterns-Week-4\singleton\bin\Release\netcoreapp3.1\SingletonAssignment.runtimeconfig.json
+C:\Users\Elizabeth\Documents\SchoolYear2\DesignPatterns-HW\Design-Patterns-Week-4\singleton\bin\Release\netcoreapp3.1\SingletonAssignment.runtimeconfig.dev.json
+C:\Users\Elizabeth\Documents\SchoolYear2\DesignPatterns-HW\Design-Patterns-Week-4\singleton\bin\Release\netcoreapp3.1\SingletonAssignment.dll
+C:\Users\Elizabeth\Documents\SchoolYear2\DesignPatterns-HW\Design-Patterns-Week-4\singleton\bin\Release\netcoreapp3.1\SingletonAssignment.pdb
+C:\Users\Elizabeth\Documents\SchoolYear2\DesignPatterns-HW\Design-Patterns-Week-4\singleton\obj\Release\netcoreapp3.1\SingletonAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Elizabeth\Documents\SchoolYear2\DesignPatterns-HW\Design-Patterns-Week-4\singleton\obj\Release\netcoreapp3.1\SingletonAssignment.AssemblyInfoInputs.cache
+C:\Users\Elizabeth\Documents\SchoolYear2\DesignPatterns-HW\Design-Patterns-Week-4\singleton\obj\Release\netcoreapp3.1\SingletonAssignment.AssemblyInfo.cs
+C:\Users\Elizabeth\Documents\SchoolYear2\DesignPatterns-HW\Design-Patterns-Week-4\singleton\obj\Release\netcoreapp3.1\SingletonAssignment.dll
+C:\Users\Elizabeth\Documents\SchoolYear2\DesignPatterns-HW\Design-Patterns-Week-4\singleton\obj\Release\netcoreapp3.1\SingletonAssignment.pdb
+C:\Users\Elizabeth\Documents\SchoolYear2\DesignPatterns-HW\Design-Patterns-Week-4\singleton\obj\Release\netcoreapp3.1\SingletonAssignment.genruntimeconfig.cache

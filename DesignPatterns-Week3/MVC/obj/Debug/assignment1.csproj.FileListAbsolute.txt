@@ -1,0 +1,12 @@
+C:\Users\Elizabeth\IdeaProjects\DesignPatternsHW\DesignPatterns-Week3\MVC\bin\Debug\MVC.exe.config
+C:\Users\Elizabeth\IdeaProjects\DesignPatternsHW\DesignPatterns-Week3\MVC\bin\Debug\MVC.exe
+C:\Users\Elizabeth\IdeaProjects\DesignPatternsHW\DesignPatterns-Week3\MVC\bin\Debug\MVC.pdb
+C:\Users\Elizabeth\IdeaProjects\DesignPatternsHW\DesignPatterns-Week3\MVC\obj\Debug\assignment1.csproj.AssemblyReference.cache
+C:\Users\Elizabeth\IdeaProjects\DesignPatternsHW\DesignPatterns-Week3\MVC\obj\Debug\MVC.exe.config
+C:\Users\Elizabeth\IdeaProjects\DesignPatternsHW\DesignPatterns-Week3\MVC\obj\Debug\MVC.ControlPanel.resources
+C:\Users\Elizabeth\IdeaProjects\DesignPatternsHW\DesignPatterns-Week3\MVC\obj\Debug\MVC.Properties.Resources.resources
+C:\Users\Elizabeth\IdeaProjects\DesignPatternsHW\DesignPatterns-Week3\MVC\obj\Debug\MVC.TrainDisplay.resources
+C:\Users\Elizabeth\IdeaProjects\DesignPatternsHW\DesignPatterns-Week3\MVC\obj\Debug\assignment1.csproj.GenerateResource.cache
+C:\Users\Elizabeth\IdeaProjects\DesignPatternsHW\DesignPatterns-Week3\MVC\obj\Debug\assignment1.csproj.CoreCompileInputs.cache
+C:\Users\Elizabeth\IdeaProjects\DesignPatternsHW\DesignPatterns-Week3\MVC\obj\Debug\MVC.exe
+C:\Users\Elizabeth\IdeaProjects\DesignPatternsHW\DesignPatterns-Week3\MVC\obj\Debug\MVC.pdb
